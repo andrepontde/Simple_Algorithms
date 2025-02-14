@@ -10,9 +10,6 @@ package simplealgorithms;
  */
 public class Fibonacci {
 
-    public Fibonacci() {
-    }
-
     private static int fibonacci(int n) {
         int fib;
         if ((n == 1) || (n == 2)) {
